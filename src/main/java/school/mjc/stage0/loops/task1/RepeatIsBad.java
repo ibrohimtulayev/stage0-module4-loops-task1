@@ -1,6 +1,6 @@
 package school.mjc.stage0.loops.task1;
 
-public class Main {
+class Main {
     public void repeatIsBad() {
         printMessage(20);
     }
